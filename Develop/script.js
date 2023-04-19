@@ -2,7 +2,7 @@
 var generateBtn = document.querySelector("#generate");
 
 function generatePassword(){
-  var passLength = parseInt(window.prompt ("desired password length (must be between 8-128 characters)"))
+  var passLength = parseInt(window.prompt ("desired password length (must be between 8-128 characters) "))
   console.log (passLength)
   if (passLength<8 || passLength>128 || isNaN (passLength)){
     alert ("Please Enter a Length Between 8 and 128")
