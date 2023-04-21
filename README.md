@@ -20,6 +20,8 @@ The "Math.random" tag chooses random numbers and characters.
 
 Created a function that writes the password the user desired.
 
+If you do not follow the instructions the password generator will ask you to please try again.
+
 Link
 
 https://josiahr4321.github.io/Password-Generator-SEO/
