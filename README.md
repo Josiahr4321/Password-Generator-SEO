@@ -20,3 +20,13 @@ The "Math.random" tag chooses random numbers and characters.
 
 Created a function that writes the password the user desired.
 
+Link
+
+https://josiahr4321.github.io/Password-Generator-SEO/
+
+![image](https://user-images.githubusercontent.com/125624166/233524831-ab08a64a-e59d-4607-9687-24f975d25435.png)
+![image](https://user-images.githubusercontent.com/125624166/233524892-c934c5af-aebd-4a8c-aeb8-38263b04a503.png)
+![image](https://user-images.githubusercontent.com/125624166/233524943-f904a59c-3d3b-4da1-b3e9-c93ad9bb4e28.png)
+![image](https://user-images.githubusercontent.com/125624166/233525046-a48e6038-fc07-497a-b243-00f657c62039.png)
+![image](https://user-images.githubusercontent.com/125624166/233525087-976a9523-91d7-4f66-84bc-d26f7e7b359e.png)
+![image](https://user-images.githubusercontent.com/125624166/233525159-544c0b68-5800-4cdb-acba-d3e925294cd7.png)
